@@ -36,5 +36,11 @@ $(function() {
 	$("#page-2 .body").clone().insertAfter($("#page-2 .body")[0]);
 	$("#page-3 .body").clone().insertAfter($("#page-3 .body")[0]);
 	$("#page-3 .body").clone().insertAfter($("#page-3 .body")[0]);
+	$("#page-4 .body").clone().insertAfter($("#page-4 .body")[0]);
+	$("#page-4 .body").clone().insertAfter($("#page-4 .body")[1]);
+	$("#page-5 .body").clone().insertAfter($("#page-5 .body")[0]);
+	$("#page-5 .body").clone().insertAfter($("#page-5 .body")[1]);
+	$("#page-6 .body").clone().insertAfter($("#page-6 .body")[0]);
+	$("#page-6 .body").clone().insertAfter($("#page-6 .body")[1]);
 	
 });
