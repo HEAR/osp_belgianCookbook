@@ -34,5 +34,7 @@ $(function() {
 
 	$("#page-2 .body").clone().insertAfter($("#page-2 .body")[0]);
 	$("#page-2 .body").clone().insertAfter($("#page-2 .body")[0]);
+	$("#page-3 .body").clone().insertAfter($("#page-3 .body")[0]);
+	$("#page-3 .body").clone().insertAfter($("#page-3 .body")[0]);
 	
 });
